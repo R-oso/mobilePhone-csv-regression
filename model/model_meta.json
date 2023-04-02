@@ -1,0 +1,1 @@
+{"inputUnits":[4],"outputUnits":1,"inputs":{"battery":{"dtype":"number","min":800,"max":9500},"resolution":{"dtype":"number","min":1.4,"max":12.2},"rearcam":{"dtype":"number","min":0,"max":23},"ppi":{"dtype":"number","min":121,"max":806}},"outputs":{"price":{"dtype":"number","min":614,"max":4361}},"isNormalized":true}
